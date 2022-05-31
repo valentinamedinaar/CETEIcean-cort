@@ -17,3 +17,9 @@ tei-persname{
    font-variant:small-caps;
    color: red;
 }
+tei-abb{
+   display:hidden;
+}
+tei-expan{
+   color:yellow;
+}
