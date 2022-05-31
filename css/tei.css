@@ -26,3 +26,8 @@ tei-expan{
 tei-del{
    text-decoration: line-through red 1pt;
 }
+
+}
+tei-add{
+   text-decoration: wavy green 4pt;
+}
