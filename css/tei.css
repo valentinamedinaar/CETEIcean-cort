@@ -29,5 +29,7 @@ tei-del{
 
 }
 tei-add{
-   text-decoration: wavy green 4pt;
+   text-decoration-line: underline;
+   text decoration-style:wavy;
+   text-decoration-color:green:
 }
