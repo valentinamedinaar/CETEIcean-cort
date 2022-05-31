@@ -15,4 +15,5 @@ tei-head{
 }
 tei-persname{
    font-variant:small-caps;
+   color: red;
 }
