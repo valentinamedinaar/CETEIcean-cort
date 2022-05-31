@@ -18,8 +18,10 @@ tei-persname{
    color: red;
 }
 tei-abb{
-   display:hidden;
+   display:none;
 }
 tei-expan{
    color:yellow;
 }
+tei-del{
+   text-decoration: line-through;
