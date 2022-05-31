@@ -33,3 +33,7 @@ tei-add{
    text decoration-style:wavy;
    text-decoration-color:green:
 }
+tei-quote{
+   margin-left:1cm;
+   display: block;
+}
